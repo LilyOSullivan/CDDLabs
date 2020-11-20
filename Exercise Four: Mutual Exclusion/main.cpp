@@ -6,8 +6,7 @@
 static const int num_threads = 100;
 int sharedVariable = 0;
 
-
-/*! \class Main
+/*! \class main
  *  \brief An Implementation of Mutual Exclusion using Semaphores
  *  \author Liliana O'Sullivan
  *  \author Joseph Kehoe
@@ -17,9 +16,6 @@ int sharedVariable = 0;
 
 /*! \fn updateTask
     \brief An Implementation of Mutual Exclusion using Semaphores
-
-   Uses C++11 features such as mutex and condition variables to implement an example of a rendezvous for threads
-
 */
 /*! displays a message that is split in to 2 sections to show how a rendezvous works*/
 void updateTask(std::shared_ptr<Semaphore> firstSem, int numUpdates)
