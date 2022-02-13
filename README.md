@@ -17,7 +17,7 @@ Makefile
 ```
 
 ## Author
-Liliana O'Sullivan
+Liliana O'Sullivan \
 Joseph Kehoe
 
 ## License
