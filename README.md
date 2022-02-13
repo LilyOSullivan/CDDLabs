@@ -1,7 +1,7 @@
 # Concurrent Development Labs
 
 Exercises for the Concurrent Development module of Software Development in ITCarlow.\
-Applying Semaphores to create a Rendezvous point\
+Applying Semaphores to create a Rendezvous point
 ## Usage
 All Labs can be compiled using a provided Makefile
 
@@ -17,7 +17,7 @@ Makefile
 ```
 
 ## Author
-Liliana O'Sullivan \
+Liliana O'Sullivan
 Joseph Kehoe
 
 ## License
